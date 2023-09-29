@@ -1,7 +1,9 @@
 # TestGitApp
 
 ## Changes done via VSCode 
-## Changes done vie VSStudio
+## Changes done via VSStudio
+
+## Changes done via GitHub desktop app
 
 ## Something
 - whatever
